@@ -18,7 +18,7 @@ conda activate luwu_mjlab
 ## 2. Install luwu_mjlab
 
 ```bash
-git clone <your-repo-url>/luwu_mjlab.git
+git clone https://github.com/LuwuDynamics-RIG/luwu_mjlab.git
 cd luwu_mjlab
 pip install -e .
 ```
